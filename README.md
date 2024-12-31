@@ -1,0 +1,1 @@
+# cs-sapporo-service-test
